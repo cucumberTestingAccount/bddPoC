@@ -1,5 +1,10 @@
-relish
----------------
+## Based on the repository found at: https://github.com/carbonrobot/relish
+
+This is meant to be used as a PoC that Cucumber/BDD can be integrated with Jira Xray. 
+This repository should not store feature; the feature files should only be stored in Jira as Xray tests.
+The feature files that work with the system are found in the examples/platform/ folder. 
+
+The following information is from the original README:
 
 REST API Testing with Cucumber and Javascript
 
